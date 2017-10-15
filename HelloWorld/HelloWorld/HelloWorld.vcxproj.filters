@@ -29,5 +29,8 @@
     <ClCompile Include="HelloWorld.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="io.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
