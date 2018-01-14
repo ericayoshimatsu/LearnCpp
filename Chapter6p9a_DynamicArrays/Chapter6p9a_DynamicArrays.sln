@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6p9a_DynamicArrays", "Chapter6p9a_DynamicArrays\Chapter6p9a_DynamicArrays.vcproj", "{096A846C-DFE3-4900-A91C-DFDAD3195B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096A846C-DFE3-4900-A91C-DFDAD3195B3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{096A846C-DFE3-4900-A91C-DFDAD3195B3A}.Debug|Win32.Build.0 = Debug|Win32
+		{096A846C-DFE3-4900-A91C-DFDAD3195B3A}.Release|Win32.ActiveCfg = Release|Win32
+		{096A846C-DFE3-4900-A91C-DFDAD3195B3A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

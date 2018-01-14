@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6p3_arrayLoop_maxIndex", "Chapter6p3_arrayLoop_maxIndex\Chapter6p3_arrayLoop_maxIndex.vcproj", "{A4A4A708-799F-414D-8B00-5A6320098F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4A4A708-799F-414D-8B00-5A6320098F5A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4A4A708-799F-414D-8B00-5A6320098F5A}.Debug|Win32.Build.0 = Debug|Win32
+		{A4A4A708-799F-414D-8B00-5A6320098F5A}.Release|Win32.ActiveCfg = Release|Win32
+		{A4A4A708-799F-414D-8B00-5A6320098F5A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

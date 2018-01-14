@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6p4_SortingArray_descending", "Chapter6p4_SortingArray_descending\Chapter6p4_SortingArray_descending.vcproj", "{D2605A1B-A350-4E7A-A2DC-90A8573C4B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2605A1B-A350-4E7A-A2DC-90A8573C4B2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2605A1B-A350-4E7A-A2DC-90A8573C4B2E}.Debug|Win32.Build.0 = Debug|Win32
+		{D2605A1B-A350-4E7A-A2DC-90A8573C4B2E}.Release|Win32.ActiveCfg = Release|Win32
+		{D2605A1B-A350-4E7A-A2DC-90A8573C4B2E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
