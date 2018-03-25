@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter7p8_FucntionPointer", "Chapter7p8_FucntionPointer\Chapter7p8_FucntionPointer.vcproj", "{09C3D071-0737-4690-A48A-433EF7A4CE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C3D071-0737-4690-A48A-433EF7A4CE04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09C3D071-0737-4690-A48A-433EF7A4CE04}.Debug|Win32.Build.0 = Debug|Win32
+		{09C3D071-0737-4690-A48A-433EF7A4CE04}.Release|Win32.ActiveCfg = Release|Win32
+		{09C3D071-0737-4690-A48A-433EF7A4CE04}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
